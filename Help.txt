@@ -1,0 +1,19 @@
+- 1:09 UserModule module = new UserModule(this);// 1:09 there is no argument given..error. --> put "this" as a parameter.
+- 1:09 Exception unhandled error. See how to fix this. add ";Connect Timeout=30" at the end of DBconnect
+- 1:10 "String or binary data would be truncated. This statement has been terminated.
+- 1:31 UIs in UserModule are changed to have modifier public from private. 
+- 3:04 Delete function doesn't work. See how to fix it.
+- 3:14 Set column properties after creating columns
+- 3:33 Running error after pressing submit button. See how to fix it.
+- 3:45 Handles the trigger.. see the video
+- 3: 47 Runs New Query in the MS SQL. See the video.
+- 4:08 before and after. Process of preventing negative quantity. Important part.
+- 4:17 Quanity error. See how to fix it. qty --> pqty
+- 4:18 Coding for total amount
+- 4:56 Concat error when pressing the payment(cash) button. See how to fix it.
+- 5:46 Learn how to set progressbar properly
+- 6:00 See the video to learn how to publish the app.
+
+
+https://www.youtube.com/watch?v=GBLkSjtqTXs
+to continue from 5:28
